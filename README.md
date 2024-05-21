@@ -1,4 +1,4 @@
-<h3 align="center">
+![giphy](https://github.com/Hossam-ELSarabasy/Hossam-ELSarabasy/assets/170449306/9cd68c58-63b5-4ab5-bb76-ef670a680ddf)<h3 align="center">
   Welcome to Hossam Ahmed ELSharabasy's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -19,6 +19,9 @@
 - 💬 Ask me about my experience with JavaScript, Angular, MS SQl server and ASP.NET, or anything related to web development and .NET technologies. <br/>
 - 👨‍💻 Check out my portfolio at https:.netlify.app/ to see some of the projects I've worked on. <br/>
 - 📧 Reach me anytime: engineer.hossam.ahmed00@gmail.com <br/><br/><br/>
+
+![giphy](https://github.com/Hossam-ELSarabasy/Hossam-ELSarabasy/assets/170449306/994c8b21-02d3-4fdd-a747-26f7ca6e29f0)
+
 
 ### Connect with me :
 <p>
