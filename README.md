@@ -20,8 +20,6 @@
 - 👨‍💻 Check out my portfolio at https:.netlify.app/ to see some of the projects I've worked on. <br/>
 - 📧 Reach me anytime: engineer.hossam.ahmed00@gmail.com <br/><br/><br/>
 
-![giphy](https://github.com/Hossam-ELSarabasy/Hossam-ELSarabasy/assets/170449306/994c8b21-02d3-4fdd-a747-26f7ca6e29f0)
-
 
 ### Connect with me :
 <p>
